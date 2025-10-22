@@ -1,2 +1,7 @@
  $ cat solution.txt
 byte0: i_wanna_be
+byte1:
+byte2: grep_and_you_will_find
+byte3: programmers
+byte4: the_triwizard_cup_is_now_yours
+byte5: sdi2500236_1761144229_-242184772_35_169_96_19_58226_22
